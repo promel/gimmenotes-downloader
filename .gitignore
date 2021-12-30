@@ -1,5 +1,3 @@
 # exclude everything
 files/*
-
-# exception to the rule
-!files/.gitkeep 
+html/*
